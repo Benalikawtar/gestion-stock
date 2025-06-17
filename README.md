@@ -33,7 +33,3 @@ Mettre en place un système centralisé pour gérer les produits, les mouvements
 - `repository/` : interfaces de persistance
 - `service/` : logique métier
 - `templates/` : vues Thymeleaf
-
-## 📄 Auteur
-
-Projet réalisé par **Kawtar Benali**, dans le cadre du module **Java EE** – 4e année **Génie des Données** – ENSAH.
